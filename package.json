@@ -1,0 +1,11 @@
+{
+  "name": "midgardpostman",
+  "version": "1.0.0",
+  "description": "Bot for the communication between discord and game servers",
+  "main": "bot.js",
+  "author": "ShellModule",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
